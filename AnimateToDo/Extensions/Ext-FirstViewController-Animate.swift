@@ -27,7 +27,7 @@ extension UITableView {
                                delay                  : 0.1 * Double(index),
                                usingSpringWithDamping : 0.8,
                                initialSpringVelocity  : 0,
-                               options                : [],
+                               options                : [.transitionFlipFromTop],
                                animations: { cell.transform = CGAffineTransform(translationX: 0, y: 0)},
                                completion             : nil)
             }

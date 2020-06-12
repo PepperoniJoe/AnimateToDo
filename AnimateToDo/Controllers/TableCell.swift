@@ -5,6 +5,8 @@
 //  Created by Marcy Vernon on 5/29/20.
 //  Copyright © 2020 Marcy Vernon. All rights reserved.
 //
+// Inspiration: https://www.youtube.com/watch?v=88GuEkKmyFQ // style of animation
+// https://makeapppie.com/2014/10/21/swift-swift-formatting-a-uipickerview/ for setting colors
 
 import UIKit
 
