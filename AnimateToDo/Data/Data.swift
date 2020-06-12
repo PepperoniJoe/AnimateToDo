@@ -19,8 +19,8 @@ struct Data {
     
     static let rowHeight    : CGFloat = 60
     static let cornerRadius : CGFloat = 30
-    static let textColor    : UIColor = .systemBackground
-    static let darkAlpha    : CGFloat = 0.70
+    static let textColor    : UIColor = .label
+    static let darkAlpha    : CGFloat = 0.75
     static let lightAlpha   : CGFloat = 0.85
     
     static let list: [(name: String, detail: [String])] = [

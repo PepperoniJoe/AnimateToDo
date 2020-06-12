@@ -23,8 +23,8 @@ struct ColorSettings {
         ("green-blue-purple", 0.3, 0.4, 0.5, 0.5, 0.75, 0.75),
         ("green-blue-purple-red", 0.4, 0.5, 0.6, 0.8, 0.4, 0.75),
         ("blue-purple-red-gold", 0.5, 0.6, 0.5, 0.75, 0.5, 0.75),
-        ("purple-lav-pink-red-orange-gold-green", 0.6, 0.7, 0.5, 0.75, 0.5, 0.75),
-        ("lav-red-orange-gold-green-skyblue-blue", 0.7, 0.71, 0.6, 0.6, 0.6, 0.6),
+        ("purple-lav-pink-red-orange-gold-green", 0.6, 0.6, 0.5, 0.75, 0.5, 0.75),
+        ("lav-red-orange-gold-green-skyblue-blue", 0.7, 0.7, 0.8, 0.7, 0.6, 0.7),
         ("rainbow", 0, 1, 0.5, 0.75, 0.5, 0.75),
     ]
 }
