@@ -1,10 +1,7 @@
 # Animate To Do
 Colorful animated list of To Do items.
 
-<img src="GitHub-Images/ScreenShot1.png" width="300">
-
-*Another Example* \
-<img src="GitHub-Images/ScreenShot2.png" width="300">
+<img src="GitHub-Images/ScreenShots.png" width="600">
 
 **Technical Info:** \
 Xcode 11 project written in Swift 5 for iOS
