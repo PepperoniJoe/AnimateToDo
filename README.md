@@ -1,6 +1,8 @@
 # Animate To Do
 Colorful animated list of To Do items.
 
+<img src="GitHub-Images/AnimatedToDo.gif" width="300"> \
+
 <img src="GitHub-Images/ScreenShots.png" width="600">
 
 **Technical Info:** \

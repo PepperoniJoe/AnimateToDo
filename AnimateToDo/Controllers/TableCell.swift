@@ -20,9 +20,9 @@ class TableCell: UITableViewCell {
         layer.cornerRadius         = Data.cornerRadius
         gradientLayer.cornerRadius = Data.cornerRadius
         layer.masksToBounds = true
-        let color1 = UIColor(white: 0.0, alpha: 0.00).cgColor
-        let color2 = UIColor(white: 1.0, alpha: 0.20).cgColor
-        let color3 = UIColor(white: 1.0, alpha: 0.25).cgColor
+        let color1 = UIColor(white: 1.0, alpha: 0.00).cgColor
+        let color2 = UIColor(white: 1.0, alpha: 0.15).cgColor
+        let color3 = UIColor(white: 1.0, alpha: 0.35).cgColor
         let color4 = UIColor(white: 1.0, alpha: 0.10).cgColor
         gradientLayer.colors = [color1, color2, color3, color4]
         gradientLayer.locations = [0.0, 0.05, 0.50, 1.0]
