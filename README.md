@@ -10,7 +10,9 @@ Colorful animated list of To Do items.
 <img src="GitHub-Images/ScreenShots.png" width="600">
 
 **Technical Info:** \
-Xcode 11 project written in Swift 5 for iOS
+Xcode 11 project written in Swift 5 for iOS\
+tableView, gradient layers, rounded corners, DispatchQueue, layers\
+UIView.animate, CGAffineTransform, spring transitions, array of tuples, color schemes
 
 **See Also:** \
 [Quickies - a variety of example iOS apps](https://github.com/PepperoniJoe/Quickies)\
